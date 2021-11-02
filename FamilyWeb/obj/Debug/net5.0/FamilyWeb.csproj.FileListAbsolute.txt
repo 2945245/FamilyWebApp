@@ -1,0 +1,7 @@
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.csproj.AssemblyReference.cache
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.AssemblyInfoInputs.cache
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.AssemblyInfo.cs
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.csproj.CoreCompileInputs.cache
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agosm\RiderProjects\FamilyWebApp\FamilyWeb\obj\Debug\net5.0\FamilyWeb.MvcApplicationPartsAssemblyInfo.cache
